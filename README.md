@@ -1,5 +1,8 @@
-# Hugo Porras Sánchez
-## Estudiante de Ingeniería Aeroespacial en vehículos aeroespaciales en la Universidad Rey Juan Carlos.
+Hugo Porras Sánchez
+===================
+Estudiante de Ingeniería Aeroespacial 
+en vehículos aeroespaciales en la Universidad Rey Juan Carlos.
+-----------------------------------------
 
 
 
